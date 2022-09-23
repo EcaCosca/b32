@@ -20,3 +20,9 @@ img {
     background-color: black;
     margin: 20px;
 }
+
+.HeroSection{
+    
+    height: 100vh;
+    background-color: aquamarine;
+}
