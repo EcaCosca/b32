@@ -1,3 +1,8 @@
+html{
+    margin: 0;
+    padding: 0;
+}
+
 p {
     color: red;
 }
@@ -22,7 +27,9 @@ img {
 }
 
 .HeroSection{
-    
+
     height: 100vh;
-    background-color: aquamarine;
+    background-image: url('https://images.adsttc.com/media/images/62f9/f612/f08d/d154/37e4/400c/slideshow/can-artificial-intelligence-systems-like-dall-e-or-midjourney-perform-creative-tasks_3.jpg');
+    background-repeat: no-repeat;
+    background-size: contain;
 }
