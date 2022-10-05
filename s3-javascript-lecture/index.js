@@ -4,17 +4,17 @@ console.log("Hey, js is connected")
 
 // WEEKEND EXAMPLE
 
-const weekDay = new Date()
+// const weekDay = new Date()
 
-console.log(weekDay)
+// console.log(weekDay)
 
-const day = weekDay.getDay()
+// const day = weekDay.getDay()
 
-console.log(day)
+// console.log(day)
 
-const message = day === 5 ? "it's friday, play the video" : "Not friday :(";
+// const message = day === 5 ? "it's friday, play the video" : "Not friday :(";
 
-console.log(message)
+// console.log(message)
 
 // WEEKDAY EXAMPLE 
 
