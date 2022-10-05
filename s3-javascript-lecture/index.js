@@ -88,4 +88,7 @@ function talk(name = "Eca",exp=''){
   const salut = function(mes){return mes}
   
   console.log(salut("Arms waving. "))
+
+
+  
   
