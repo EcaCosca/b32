@@ -4,11 +4,15 @@
 // - Display the time (hh:mm) in the console.
 // - Display the day (mm.dd)
 
+// https://www.w3schools.com/jsref/jsref_obj_date.asp
+
+// SOLUTION
 const date = new Date()
 
-const hoursAndMinutes = date.getHours()+":"+date.getMinutes()
+// DISPLAY THE  HOUR AND : MINUTES
+const hourAndMinutes = date.getHours()+":"+date.getMinutes()
+// DISPLAY THE MONTH AND DAY SEPARATED BY A DOT
+const monthAndDay = date.getMonth()+1+"."+date.getDate()
 
-const monthAndDay = date.getMonth()+"."+date.getDate()
-
-console.log(hoursAndMinutes)
+console.log(hourAndMinutes)
 console.log(monthAndDay)
