@@ -9,6 +9,6 @@
 
 const arr = [4, 3, 5, 8];
 
-console.log("all the values are "+ arr)
-console.log("the first value is "+ arr[0])
-console.log("the length of the array is " + arr.length)
+console.log("all the values are ", arr)
+console.log("the first value is ", arr[0])
+console.log("the length of the array is ", arr.length)
