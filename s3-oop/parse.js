@@ -1,4 +1,4 @@
-https://platform.wbscodingschool.com/courses/full-stack-web-app/11281/
+// https://platform.wbscodingschool.com/courses/full-stack-web-app/11281/
 
 // Object
 // Without changing the variable in index.js
